@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">DailyPhrases</string>
+    <string name="app_title">Frases do Dia</string>
+    <string name="btnDailyPhrases">Nova Frase</string>
+    <string name="dailyMessage0">Um pequeno pensamento positivo pela manhã pode mudar todo o seu dia.</string>
+    <string name="dailyMessage1">Você é mais corajoso do que pensa, mais forte do que parece e mais esperto do que acredita”, Christopher Robin.</string>
+    <string name="dailyMessage2">Só é lutador quem sabe lutar consigo mesmo”, Carlos Drummond de Andrade.</string>
+    <string name="dailyMessage3">Não existe nada de completamente errado no mundo. Mesmo um relógio parado consegue estar certo duas vezes por dia”, Paulo Coelho.</string>
+    <string name="dailyMessage4">A vida é igual andar de bicicleta. Para manter o equilíbrio é preciso se manter em movimento”, Einstein.</string>
+    <string name="dailyMessage5">No caminho entre as pedras o espinho protege a flor”, Osmar Sampaio.</string>
+    <string name="dailyMessage6">Daqui a vinte anos você estará mais decepcionado pelas coisas que não fez do que pelas que fez”, Mark Twain.</string>
+    <string name="dailyMessage7">Viver é acalentar sonhos e esperanças, fazendo da fé a nossa inspiração maior”, Mario Quintana.</string>
+    <string name="dailyMessage8">A melhor maneira de prever o futuro é criá-lo”, Peter Drucker.</string>
+    <string name="dailyMessage9">Nem ganhar, nem perder, mas procurar evoluir”, Charlie Brown Jr.</string>
+    <string name="dailyMessage10">Não existe nada mais poderoso no mundo do que a ideia que chega na hora certa”, Victor Hugo.</string>
+    <string name="dailyMessage11">A única pessoa livre é aquela que não tem medo do ridículo”, Luís Fernando Veríssimo.</string>
+    <string name="dailyMessage12">Os limites do possível só podem ser definidos indo além do impossível”, Arthur C. Clarke.</string>
+    <string name="dailyMessage13">Até cortar os próprios defeitos pode ser perigoso. Nunca se sabe qual é o defeito que sustenta nosso edifício inteiro”, Clarice Lispector.</string>
+    <string name="dailyMessage14">Você deve pensar grande e começar pequeno”, Carlos Martins Wizard.</string>
+    <string name="dailyMessage15">Você só cresce quando ouve aquilo que não quer ouvir”, Luiza Trajano.</string>
+    <string name="dailyMessage16">Antes que diga que não consegue fazer alguma coisa, experimente”, Sakichi Toyoda.</string>
+    <string name="dailyMessage17">Todos os nossos sonhos podem virar realidade, se tivermos a coragem de persegui-los”, Walt Disney.</string>
+    <string name="dailyMessage18">Você deve confiar na voz que vem de dentro de você e diz exatamente o que precisa fazer”, Ingrid Bergman.</string>
+    <string name="dailyMessage19">Tenha até pesadelos, se necessário for. Mas sonhe”, Patrícia Galvão.</string>
+    <string name="dailyMessage20">Eu nunca sonhei com o sucesso, eu trabalhei por ele”, Estée Lauder.</string>
+    <string name="dailyMessage21">Se você quer fazer uma coisa realmente grande, seja grande como a coisa que você quer fazer”, Nizan Guanaes.</string>
+    <string name="dailyMessage22">Nunca desista de um sonho por causa do tempo que vai levar para alcançá-lo. O tempo vai passar de qualquer forma”, Earl Nightingale.</string>
+    <string name="dailyMessage23">Mire na lua. Mesmo que você erre, você vai acertar as estrelas”, Les Brown.</string>
+    <string name="dailyMessage24">Você não pode ensinar nada a ninguém, mas pode ajudar as pessoas a descobrirem por si mesmas”, Galileu.</string>
+    <string name="dailyMessage25">Não há nada que dominemos inteiramente a não ser os nossos pensamentos”, René Descartes.</string>
+    <string name="dailyMessage26">Em algum lugar, alguma coisa incrível está esperando para ser descoberta”, Carl Sagan.</string>
+    <string name="dailyMessage27">Viver é enfrentar um problema atrás do outro. O modo como você o encara é que faz a diferença”, Benjamin Franklin.</string>
+    <string name="dailyMessage28">Não importa o quão lentamente você vai, desde que você não pare”, Confúcio.</string>
+    <string name="dailyMessage29">Nós somos o que fazemos repetidamente. A excelência, então, não é um ato, mas um hábito”, Aristóteles.</string>
+    <string name="dailyMessage30">Um homem criativo é motivado pelo desejo de alcançar, não pelo desejo de vencer os outros”, Ayn Rand.</string>
+</resources>
